@@ -1,6 +1,9 @@
 X_test_Hi5.csv
 X_train_Hi5.csv
 y_test_submission_example_Hi5.csv
+train_temp.csv
+val.csv
+test_results.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
